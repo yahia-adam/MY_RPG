@@ -10,10 +10,10 @@ Compilation: Navigate to the root of the repository from your Terminal and run m
 ex:game
 
 Menu:
-![Uploading Screenshot from 2022-06-08 01-19-24.png…]()
+![Screenshot from 2022-06-08 01-19-24](https://user-images.githubusercontent.com/91891487/172500804-ab97834c-ebc4-409b-8434-d9f7fcba512e.png)
 
 Ex game chalenge:
-![Uploading Screenshot from 2022-06-08 01-19-24.png…]()
+![Screenshot from 2022-06-08 01-15-30](https://user-images.githubusercontent.com/91891487/172500881-649c436f-4a58-48ac-a2ea-9a19094e4d1d.png)
 
 Inside house:
-![Screenshot from 2022-06-08 01-19-24](https://user-images.githubusercontent.com/91891487/172500648-9f4c30ad-ed4d-4c5c-9b12-47383f1339e9.png)
+![Screenshot from 2022-06-08 01-14-29](https://user-images.githubusercontent.com/91891487/172500929-decb1656-f9d3-4ef3-b60f-957d857ef902.png)

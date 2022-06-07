@@ -16,4 +16,4 @@ Ex game chalenge:
 ![Uploading Screenshot from 2022-06-08 01-19-24.png…]()
 
 Inside house:
-![Uploading Screenshot from 2022-06-08 01-14-29.png…]()
+![Screenshot from 2022-06-08 01-19-24](https://user-images.githubusercontent.com/91891487/172500648-9f4c30ad-ed4d-4c5c-9b12-47383f1339e9.png)

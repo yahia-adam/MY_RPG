@@ -1,0 +1,6 @@
+MAYOR
+
+Congratulations, you completed your task ! But I have some bad news...
+A little kid has lost his dog, go find him
+
+    Press Y to accept the mission                                                         Press space to quit

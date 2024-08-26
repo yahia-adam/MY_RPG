@@ -2,6 +2,10 @@
 
 Create your own RPG
 
+Clicker video Demo
+
+[![Demo](https://img.youtube.com/vi/M-EcueJWmZ0/0.jpg)](https://youtu.be/M-EcueJWmZ0 "Demo Video")
+
 <h2>Requirements:</h2>
 A Linux distribution or Apple's macOS Make GCC, CSFML 2.5
 

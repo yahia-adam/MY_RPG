@@ -1,6 +1,5 @@
  <h1 align="center"> MY_RPG </h1>
 
-{EPITECH.} first year project
 Create your own RPG
 
 <h2>Requirements:</h2>
